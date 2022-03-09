@@ -1,2 +1,2 @@
 #!/bin/sh
-cp build/libs/java-multiCameraServer-all.jar runCamera /home/pi
+cp build/libs/RapidPi-all.jar runCamera /home/pi

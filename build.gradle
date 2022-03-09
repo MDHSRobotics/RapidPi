@@ -23,6 +23,10 @@ dependencies {
     compile name: 'cscore'
     compile name: 'cameraserver'
     compile name: 'opencv-347'
+    compile name: 'pi4j-core'
+    compile name: 'pi4j-device'
+    compile name: 'pi4j-example'
+    compile name: 'pi4j-gpio-extension'
     compile name: 'wpilibj'
     compile name: 'wpiHal'
 }
